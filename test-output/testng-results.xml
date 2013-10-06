@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="232" started-at="2013-10-06T21:59:42Z" finished-at="2013-10-06T21:59:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="232" started-at="2013-10-06T21:59:42Z" finished-at="2013-10-06T21:59:42Z">
+      <class name="HammingNetworkTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:HammingNetworkTest@31b5998f]" name="init" is-config="true" duration-ms="10" started-at="2013-10-07T01:59:42Z" finished-at="2013-10-07T01:59:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="checkSize()[pri:0, instance:HammingNetworkTest@31b5998f]" name="checkSize" duration-ms="7" started-at="2013-10-07T01:59:42Z" finished-at="2013-10-07T01:59:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSize -->
+        <test-method status="PASS" signature="recognize()[pri:0, instance:HammingNetworkTest@31b5998f]" name="recognize" duration-ms="195" started-at="2013-10-07T01:59:42Z" finished-at="2013-10-07T01:59:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- recognize -->
+        <test-method status="PASS" signature="train()[pri:0, instance:HammingNetworkTest@31b5998f]" name="train" duration-ms="1" started-at="2013-10-07T01:59:42Z" finished-at="2013-10-07T01:59:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- train -->
+      </class> <!-- HammingNetworkTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
